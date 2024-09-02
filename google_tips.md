@@ -1,10 +1,15 @@
 # Google Chrome Tips
 
 1- Install google dich
+
 2- Install Cambridge
+
 3- Picture in Picture extension
+
 4- AdBlock Plus
+
 5- Dark Reader
+
 6- Youtube Transcript
 
 

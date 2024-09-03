@@ -6,8 +6,10 @@ Remote SSH
 
 C:\User\TAI_HUYNH>ssh-keygen
 
-C:\User\TAI_HUYNH\.ssh\id_rsa : Prive file 1KB
-C:\User\TAI_HUYNH\.ssh\id_rsa : Public file 3KB
+C:\User\TAI_HUYNH\.ssh\id_rsa : Prive file 3KB
+
+C:\User\TAI_HUYNH\.ssh\id_rsa : Public file 1KB
+
 ![image](https://github.com/user-attachments/assets/d35afcfa-e056-45b9-93f4-3806056965ca)
 
 copy Public key to /home/tai_huynh/.ssh/id_rsa and change the name to /authorized_keys
